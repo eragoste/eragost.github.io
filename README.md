@@ -1,1 +1,1 @@
-# eragost..github.io
+# eragost.github.io
